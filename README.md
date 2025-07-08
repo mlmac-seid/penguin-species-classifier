@@ -1,1 +1,2 @@
 # penguin-species-classifier
+This project demonstrates how different classification algorithms (Linear Regression, Logistic Regression, and K-Nearest Neighbors) perform on a subset of the Palmer Penguins dataset. It focuses on binary classification between Adelie and Chinstrap species, using various feature combinations and plotting decision boundaries. Work completed for CS 3262 at Vanderbilt University.
